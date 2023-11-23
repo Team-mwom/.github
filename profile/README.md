@@ -2,7 +2,6 @@
 
 Moyeora HO!
 
-![image](https://github.com/Team-mwom/.github/assets/61938906/4f47d49e-1cad-4fd6-b5d7-1abce6d9113e)
 
 
 <!--
